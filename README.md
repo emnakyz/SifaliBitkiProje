@@ -1,8 +1,8 @@
 # SifaliBitkiProje
 
-![ilk resim](https://github.com/emnakyz/SifaliBitkiProje/tree/main/githubphotofile/github1_.PNG)
+![ilk resim](https://github.com/emnakyz/SifaliBitkiProje/blob/main/githubphotofile/github1_.png)
 
-![ikinci resim](https://github.com/emnakyz/SifaliBitkiProje/tree/main/githubphotofile/github2.png)
+![ikinci resim](https://github.com/emnakyz/SifaliBitkiProje/blob/main/githubphotofile/github2.png)
 
 ![ücüncü resim](https://github.com/emnakyz/SifaliBitkiProje/tree/main/githubphotofile/github3.png)
 
