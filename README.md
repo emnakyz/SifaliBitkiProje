@@ -2,7 +2,7 @@
 
 ![ilk resim](https://github.com/emnakyz/SifaliBitkiProje/blob/main/githubphotofile/github1_.png)
 
-![ikinci resim](https://github.com/emnakyz/SifaliBitkiProje/blob/main/githubphotofile/github2.png)
+![ikinci resim](https://github.com/emnakyz/SifaliBitkiProje/blob/main/githubphotofile/github2.PNG)
 
 ![ücüncü resim](https://github.com/emnakyz/SifaliBitkiProje/blob/main/githubphotofile/github3.png)
 
